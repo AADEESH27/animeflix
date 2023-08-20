@@ -1,6 +1,3 @@
-# LINK TO PROJECT
-[SORT ME](https://sortme-nine.vercel.app/)
-
 # ANIMEFLIX
 Animeflix is a React App project by Aadeesh Bali to stay updated on the world of manga and anime.
 
